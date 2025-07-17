@@ -133,5 +133,4 @@ dist
 .pnp.*
 
 
-
-# End of https://mrkandreev.name/snippets/gitignore-generator/#Rust,Node,nodejs,nextjs
+package-lock.json
